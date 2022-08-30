@@ -33,7 +33,7 @@ header p {
 main {
     box-shadow: 1px 1px 10px black;
     padding-right: 15px;
-    padding-left: 25px;
+    padding-left: 15px;
     padding-bottom: 10px;
     border-radius: 10px;
     min-width: 300px;
