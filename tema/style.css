@@ -47,7 +47,7 @@ main h1 {
     margin: -10px -10px 0px -10px;
     background-image: linear-gradient(to right, gray , transparent);
     font-family: Arial, Helvetica, sans-serif;
-    padding-top: 10px;
+    padding-top: 1px;
 }
 
 main p {
