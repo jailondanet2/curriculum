@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+
 * {
     margin: 0px;
     padding: 0px;
@@ -8,14 +9,14 @@
 body {
     padding-left: 10px;
     padding-right: 10px;
-    background-image: linear-gradient(to right, green, rgba(20, 165, 20, 0.5));
+    background-image: linear-gradient(to right, gray , transparent);
     
 }
 
 header h1 {
 
     border-radius: 5px;
-    padding-top: 10px;
+    padding-top: 5px;
     text-align: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
@@ -23,7 +24,7 @@ header h1 {
 
 
 header p {
-    padding-bottom: 15px;
+    padding-bottom: 5px;
     text-align: center;
     padding-top: 10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -83,5 +84,5 @@ footer {
     padding-bottom: 5px;
     padding-top: 10px;
     text-align: center;
-    background-image: linear-gradient(to right, green, rgba(20, 165, 20, 0.5));
+    background-image: linear-gradient(to right, gray , transparent);
 }
